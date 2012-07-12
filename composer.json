@@ -1,0 +1,26 @@
+{
+	"name": "omez/code-generator",
+	"description": "Code generation library",
+	"authors": [
+		{
+			"name": "Alexander Sergeychik",
+			"email": "alexander.sergeychik@gmail.com"
+		}
+	],
+	
+	"require": {
+	},
+	
+	"autoload" : {
+		"psr-0" : {
+			"CodeGenerator" : "src/"
+		}
+	},
+	
+	"repositories": [
+	    {
+	    	"packagist": false
+	    }
+	]
+	
+}
